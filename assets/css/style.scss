@@ -38,3 +38,16 @@ section {
     border: 1px solid #726F60;
     box-shadow: 1px 0px 2px rgba(0,0,0,.75);
 }
+
+blockquote {
+    border-left: 1px solid #403b35;
+}
+
+td {
+    border-bottom: 1px solid #403b35;
+    border-right: 1px solid #403b35;
+
+    &:first-child {
+        border-left: 1px solid #403b35;
+    }
+}
