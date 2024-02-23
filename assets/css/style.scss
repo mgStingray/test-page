@@ -3,6 +3,17 @@
 
 @import "{{ site.theme }}";
 
+header {
+    background: #596A48;
+}
+
 #banner {
-    background: #374f2f;
+    background: #3A4C29;
+    border: 1px solid #2D4317;
+
+    .button {
+        border: 1px solid #2D4317;
+        background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
+        background-color: #3A4C29;
+    }
 }

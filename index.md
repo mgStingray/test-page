@@ -2,7 +2,7 @@
 layout: default
 ---
 
-is banner green now?
+MORE GREEN
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
