@@ -5,6 +5,14 @@
 
 header {
     background: #596A48;
+
+    h1 {
+            color: #c9c1b6;
+            text-shadow: 0px 2px 0px #3A4C29;
+        }
+    p {
+        color: #c9c1b6;
+    }
 }
 
 #banner {
@@ -13,7 +21,6 @@ header {
 
     .button {
         border: 1px solid #2D4317;
-        background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
-        background-color: #3A4C29;
+        background: #3A4C29;
     }
 }
