@@ -44,10 +44,19 @@ blockquote {
 }
 
 td {
+    border-top:1px solid #403b35;
     border-bottom: 1px solid #403b35;
     border-right: 1px solid #403b35;
 
     &:first-child {
         border-left: 1px solid #403b35;
     }
+}
+
+ul {
+    list-style-image: #403b35;
+}
+
+hr {
+    background: #403b35;
 }
