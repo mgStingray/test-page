@@ -8,6 +8,10 @@ body {
     background: #212528;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  color:#c9c1b6;
+}
+
 header {
     background: #596A48;
     h1 {
@@ -22,4 +26,10 @@ header {
 #banner {
     background: #3A4C29;
     border: 1px solid #2D4317;
+}
+
+section {
+    background: #999788;
+    border-radius: 3px;
+    border: 1px solid #726F60;
 }
