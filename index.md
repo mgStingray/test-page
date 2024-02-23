@@ -2,6 +2,8 @@
 layout: default
 ---
 
+is banner green now?
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
