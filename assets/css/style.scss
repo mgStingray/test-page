@@ -4,12 +4,17 @@
 @import "{{ site.theme }}";
 
 body {
-    color: #c9c1b6;
+    color: #212528;
     background: #212528;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#c9c1b6;
+  color:#212528;
+}
+
+strong {
+    font-weight: bold;
+    color: #212528;
 }
 
 header {
