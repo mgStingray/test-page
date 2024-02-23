@@ -39,6 +39,9 @@ nav {
             &.tag-h1 {
                 a {
                     color: #596A48;
+                    &:hover {
+                        color: #c9c1b6;
+                    }
                 }
             }
         }
